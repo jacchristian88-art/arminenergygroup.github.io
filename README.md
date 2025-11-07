@@ -50,7 +50,7 @@
 
   <div class="contact-info">
     <p>Email: <a href="mailto:arminsohrabi080@gmail.com">arminsohrabi080@gmail.com</a></p>
-    <p>Telefon: <a href="tel:+491234567890">+49 123 4567890</a></p>
+    <p>Telefon: <a href="tel:+491234567890">+49 176 85 91 59 64</a></p>
     <p>Website: <a href="https://arminenergygroup.github.io" target="_blank">arminenergygroup.github.io</a></p>
   </div>
 </body>
