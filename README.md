@@ -38,10 +38,20 @@
     a:hover {
       text-decoration: underline;
     }
+
+    .contact-info {
+      margin-top: 30px;
+    }
   </style>
 </head>
 <body>
   <h1>Armin Energy Group</h1>
   <p>Engineering • Power • Energy Systems</p>
-  <p>Contact: <a href="mailto:arminsohrabi080@gmail.com">arminsohrabi080@gmail.com</a></p>
-</b
+
+  <div class="contact-info">
+    <p>Email: <a href="mailto:arminsohrabi080@gmail.com">arminsohrabi080@gmail.com</a></p>
+    <p>Telefon: <a href="tel:+491234567890">+49 123 4567890</a></p>
+    <p>Website: <a href="https://arminenergygroup.github.io" target="_blank">arminenergygroup.github.io</a></p>
+  </div>
+</body>
+</html>
