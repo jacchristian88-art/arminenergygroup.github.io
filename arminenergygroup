@@ -1,0 +1,17 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Armin Energy Group</title>
+  <style>
+    body { font-family: Arial; background: #0d1117; color: white; text-align: center; padding: 80px; }
+    h1 { color: #00e6ff; }
+  </style>
+</head>
+<body>
+  <h1>Armin Energy Group</h1>
+  <p>Engineering • Power • Energy Systems</p>
+  <p>Contact: arminsohrabi080@gmail.com</p>
+</body>
+</html>
